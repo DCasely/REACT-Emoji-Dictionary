@@ -4,7 +4,7 @@ import emojis from '../emojis';
 
 export default function App() {
   return (
-    <div>
+    <div className="container">
       <h1>
         <span>React: Props & Mapping Components for Emoji Dictionary</span>
       </h1>
